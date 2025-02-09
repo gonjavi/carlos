@@ -1,2 +1,2 @@
-# este es un archivo pyhon
+# este es un archivo python
 
